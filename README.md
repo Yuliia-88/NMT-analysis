@@ -24,7 +24,7 @@
  [файл `Odata2025File` з деперсоніфікованими даними всіх учасників тестування 2025 року.](https://zno.testportal.com.ua/opendata)
  
 - `NMT_Analysis_2024_vs_2025.ipynb` - Jupyter Notebook з повною обробкою даних, візуалізаціями та аналізом.
-- `NMT_Analysis_2024_vs_2025.twbx` — [інтерактивні дашборди з Tableau з фільтрами за статтю, віком, роком та регіоном розташування закладу здобуття освіти.](https://public.tableau.com/app/profile/yuliia.klymenko/viz/NMT_Analysis_Final_project_16_10/2024vs2025)
+- `NMT_Analysis_2024_vs_2025.twbx` - [інтерактивні дашборди з Tableau з фільтрами за статтю, віком, роком та регіоном розташування закладу здобуття освіти.](https://public.tableau.com/app/profile/yuliia.klymenko/viz/NMT_Analysis_Final_project_16_10/2024vs2025)
 
 
 ---
