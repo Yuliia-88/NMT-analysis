@@ -30,7 +30,7 @@
 ---
 ## 🧠 Використані технології
 
-**Мова:**  Python (pandas, seaborn, matplotlib, plotly)
+**Мова:**  Python (numpy, pandas, matplotlib, seaborn, plotly, scipy.stats)
 
 **Попередня обробка даних:**	Jupyter Notebook
 
