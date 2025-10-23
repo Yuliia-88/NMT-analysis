@@ -17,6 +17,7 @@ Key analytical steps:
 
 ## 🗂️ Data Sources
 [файл `Odata2024File` з деперсоніфікованими даними всіх учасників тестування 2024 року.](https://zno.testportal.com.ua/opendata)
+
 [файл `Odata2025File` з деперсоніфікованими даними всіх учасників тестування 2025 року.](https://zno.testportal.com.ua/opendata)
 
 ## 🧰 Tools Used  
@@ -36,20 +37,16 @@ Interactive Tableau Dashboards include filters by gender, age, year, and the reg
 [To go to this interactive dashboard](https://public.tableau.com/app/profile/yuliia.klymenko/viz/NMT_Analysis_Final_project_16_10/2024vs2025)
 
 ![](Comparison of NMT Results in Ukraine 2024 vs 2025 (p.1))
+
 ![](Comparison of NMT Results in Ukraine 2024 vs 2025 (p.2))
 
 
 ## 📊 Key Insights
 - In 2024, 22.5% of participants failed the NMT; in 2025, this rate improved to 21%
-- The most challenging subject was mathematics:
- -- Failure due to math in 2024 — 11.6%
- -- In 2025 — 10.9%
+- The most challenging subject was mathematics: failure due to math in 2024 - 11.6%, in 2025 - 10.9%
 - In 2025, there was a statistically significant difference in average math subtest scores between male and female participants
 - The top-performing educational institutions were located in Lviv region and Kyiv city
-- The choice of the fourth subject varied by gender:
- -- Female participants preferred biology and Ukrainian literature
- -- Male participants leaned toward geography and physics
- -- However, English language was the most popular elective for both genders
+- The choice of the fourth subject varied by gender: female participants preferred biology and Ukrainian literature; male participants leaned toward geography and physics. However, English language was the most popular elective for both genders
 
 
 ## 🎯  Project Purpose
@@ -66,10 +63,3 @@ This project may be useful for:
 👩‍💻 Yuliia Klymenko
 
 Data Analyst | SQL | Python | Excel & Google Sheets | Power BI | Tableau
-
-
-
-
-
-- `NMT_Analysis_2024_vs_2025.twbx` - [інтерактивні дашборди з Tableau з фільтрами за статтю, віком, роком та регіоном розташування закладу здобуття освіти.](https://public.tableau.com/app/profile/yuliia.klymenko/viz/NMT_Analysis_Final_project_16_10/2024vs2025)
-
