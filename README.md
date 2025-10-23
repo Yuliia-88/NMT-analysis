@@ -36,9 +36,9 @@ Interactive Tableau Dashboards include filters by gender, age, year, and the reg
 
 [To go to this interactive dashboard](https://public.tableau.com/app/profile/yuliia.klymenko/viz/NMT_Analysis_Final_project_16_10/2024vs2025)
 
-![](Comparison of NMT Results in Ukraine 2024 vs 2025 (p.1))
+![](Comparison of NMT Results in Ukraine 2024 vs 2025 (p.1).png)
 
-![](Comparison of NMT Results in Ukraine 2024 vs 2025 (p.2))
+![](Comparison of NMT Results in Ukraine 2024 vs 2025 (p.2).png)
 
 
 ## 📊 Key Insights
