@@ -4,14 +4,13 @@
 This project focuses on a comparative analysis of the National Multi-Subject Test (NMT) results in Ukraine for the years 2024 and 2025.
 The goal is to explore changes in student performance, subject preferences, and regional disparities in outcomes.
 
-Key analytical steps:
+Analytical Scope:
 - Comparing NMT results across years (2024 vs 2025)
 - Analyzing participant distribution by region, age, and test status
 - Investigating changes in the number of Ukrainians taking the test abroad
 - Identifying regions with the highest and lowest average scores
 - Assessing the share of participants who failed the test
 - Exploring fourth subject choices by gender
-- Visualizing score distributions across core subjects
 - Detecting regional differences in educational outcomes
 
 
@@ -36,9 +35,9 @@ Interactive Tableau Dashboards include filters by gender, age, year, and the reg
 
 [To go to this interactive dashboard](https://public.tableau.com/app/profile/yuliia.klymenko/viz/NMT_Analysis_Final_project_16_10/2024vs2025)
 
-![](Comparison of NMT Results in Ukraine 2024 vs 2025 (p.1).png)
+![](Comparison_of_NMT_Results_in_Ukraine_2024_vs_2025_p1.png)
 
-![](Comparison of NMT Results in Ukraine 2024 vs 2025 (p.2).png)
+![](Comparison_of_NMT_Results_in_Ukraine_2024_vs_2025_p2.png)
 
 
 ## 📊 Key Insights
