@@ -57,8 +57,7 @@ This project may be useful for:
 - Future participants, looking for statistics to motivate and guide their preparation for the NM
   
 
-## 🖋️ Автор
-
+## 🖋️ Author
 👩‍💻 Yuliia Klymenko
 
 Data Analyst | SQL | Python | Excel & Google Sheets | Power BI | Tableau
